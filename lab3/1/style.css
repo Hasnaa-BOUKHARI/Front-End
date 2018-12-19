@@ -20,6 +20,15 @@ body
 
 }
 
+.name
+{
+	margin-bottom: 30px;
+	font-size: 48px;
+	line-height: 42px;
+	color: rgb(51, 51, 51);
+	font-family: "Open Sans";
+	font-weight: 600;
+}
 .header_links 
 {
     max-width: 1000px;
@@ -52,7 +61,7 @@ body
 {
     background-image: url("my_hobbies.png");
     background-repeat: no-repeat;
-    background-position: 16px 20px;
+    background-position: 19px 230px;
     color: rgb(51,51,51);
 }
 
@@ -394,7 +403,7 @@ body
 {
 	background-image: url("my_hobbies.png");
 	background-repeat: no-repeat;
-	background-position: 16px 20px;
+	background-position: 16px 23px;
 	color: rgb(51,51,51);
 }
 
